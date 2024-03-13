@@ -1,5 +1,13 @@
+:root{
+    --primary-color:#1d3557;
+}
+
 *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+}
+
+header{
+    background-color: var(--primary-color);
 }
